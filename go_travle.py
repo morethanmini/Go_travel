@@ -1,3 +1,4 @@
+#여행을 떠나요
 import sys
 from PyQt5.QtWidgets import (QApplication, QMainWindow, QWidget, QPushButton,
                              QGridLayout, QLabel, QGroupBox)
